@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 Provando a imparar a usar lo Git     
-=======
-Provando a imparar a usar lo Git,   
-nel mezzo del cammin di nostra vita    
->>>>>>> 1bb3436b562b5a92a8bd461d3e7ea1d135fa0b83
 mi ritrovai per una selva oscura,    
 ché la diritta via era smarrita.    
     
