@@ -1,4 +1,5 @@
-Nel mezzo del cammin di nostra vita    
+Provando a imparar a usar lo Git,
+nel mezzo del cammin di nostra vita    
 mi ritrovai per una selva oscura,    
 ché la diritta via era smarrita.    
     
